@@ -1,0 +1,6 @@
+Horror        ,The Abyss    ,James Cameron              ,             ,             ,             ,Ed Harris,Mary Elizabeth Mastrantonio    ,             ,A very engaging underwater odyssey.      
+comedy        ,Raising Arizona            ,Ethan Coen   ,Joel Coen    ,Ethan Coen   ,Joel Coen    ,Nicolas Cage,Sandra Bullock              ,Holly Hunter ,A classic one-of-a-kind screwball love story.          
+comedy        ,Midnight Run ,George Gallo ,             ,Martin Brest ,Martin Brest ,Robert De Niro,            ,Charles Grodin             ,The quintessential road comedy.          
+mystery       ,The Usual Suspects         ,Christopher McQuarrie      ,             ,Michael McDonnell          ,Bryan Singer ,Stephen Baldwin,           ,Benicio Del Toro           ,A crime mystery with incredibly intricate plot twists. 
+Family Drama  ,Kal ho na ho ,Karan Johar  ,             ,Karan Johar  ,Nikhil Advani              ,Shah Rukh Khan,Preety Zinta              ,Saif Ali Khan              ,Amazing movie with lot's of fun          
+Scientific    ,Koi Mil Gaya ,Rakesh roshan              ,             ,FilmCraft Pvt.Ltd          ,Rakesh roshan              ,Hrithik Roshan,Preety Zinta              ,             ,An hollywood style movie, with indian touch            
